@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d13465-588d-42f4-9381-e14750cbb3b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Code/Java/Java_BludBourne/BludBourne" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_P2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_P2-Yarts2/WYarts" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_P2_Yarts" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_P2_Yarts-ui" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_P2_Yarts_TEMP" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_Pathfinding/pathfinding" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_Yarts" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_Yarts/WYarts" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_Yarts/WYarts/PMyGame-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_boilerplate" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Ashley" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Ashley2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Ashley_Steering" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/CogAndBalls/libGDX.info-Box2DLight_Basic" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Kitten2d-Ashley-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/LibGDXFromBegginnerToPro/ch12_Adventure-Game/Adventure-Game" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/LibGDXFromBegginnerToPro/ch3_Starfish-collector/Starfish-Collector" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/LibGDXFromBegginnerToPro/ch4_Space-Rocks/Space-Rocks" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/LibGDXFromBegginnerToPro/ch6_Rythm-Tapper/Rythm-Tapper" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/MarioBros" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/MyRts/MyRTS" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/MyRts/MyRTS/source" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Overlap2D/thm" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Pathfinding" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Piotr" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/Super_mario_bros" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/YaRPG" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/box2d/BoxLight" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/box2d/lighter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/box_draw" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/drawing_sprites" value="PREVIEW" />
+        <entry key="$USER_HOME$/Code/Java/Java_libGDX_tutorials/libGDX-playground" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/LibGDX/test" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/RTSV/CameraManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/FPV/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clouds/CloudsProducer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/RTSV_Smooth/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/SampleScenes/Shaders/Skybox-Procedural.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Utility/SimpleMouseRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Utility/SmoothFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DayNightCycle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Utility/DynamicShadowSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@4.0.5/Content/Shader/VertexPicker.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clouds/Cloud.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light/LightTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Smoke/SmokeTimer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/csc.rsp" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Zoom/IZoomStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Zoom/OrthographicZoomStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/CameraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoFocus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Zoom/PerspectiveZoomStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Input/KeyboardInputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Input/InputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RTSV/Input/MouseInputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds/CloudsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds/Limit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds/BoundsLimits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DayNightCycle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlickeringLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds/Cloud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds/CloudsProducer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Smoke/SmokeTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Light/LightTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/RTSV_Smooth/CameraController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVL00SCNiZHS9XWvjDLdeSASX8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d13465-588d-42f4-9381-e14750cbb3b0" name="Default Changelist" comment="" />
+      <created>1577333090188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577333090188</updated>
+      <workItem from="1577333097395" duration="1000" />
+      <workItem from="1577389610370" duration="1194000" />
+      <workItem from="1577391018901" duration="2491000" />
+      <workItem from="1577542565623" duration="6263000" />
+      <workItem from="1577564871710" duration="20039000" />
+      <workItem from="1577614952707" duration="33499000" />
+      <workItem from="1577666760209" duration="8158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="1791" y="367" key="RiderGenerateDialog" timestamp="1577624924673">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1791" y="367" key="RiderGenerateDialog/0.0.3440.1410/960.1440.1920.1050@0.0.3440.1410" timestamp="1577624924673" />
+    <state x="1224" y="346" width="995" height="717" key="SettingsEditor" timestamp="1577625212213">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1224" y="346" width="995" height="717" key="SettingsEditor/0.0.3440.1410/960.1440.1920.1050@0.0.3440.1410" timestamp="1577625212213" />
+    <state x="2704" y="290" width="666" height="837" key="find.popup" timestamp="1577590415266">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2704" y="290" width="666" height="837" key="find.popup/0.0.3440.1410/960.1440.1920.1050@0.0.3440.1410" timestamp="1577590415266" />
+    <state x="2647" y="365" width="672" height="676" key="search.everywhere.popup" timestamp="1577639662974">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2647" y="365" width="672" height="676" key="search.everywhere.popup/0.0.3440.1410/960.1440.1920.1050@0.0.3440.1410" timestamp="1577639662974" />
+  </component>
+</project>
