@@ -1,0 +1,2359 @@
+fileFormatVersion: 2
+guid: 1b64e3187321c804c9a04faaf1442f0e
+SketchUpImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Banner Green
+  - first:
+      1: 100002
+    second: Banner Red
+  - first:
+      1: 100004
+    second: Body
+  - first:
+      1: 100006
+    second: Body 1
+  - first:
+      1: 100008
+    second: Cart
+  - first:
+      1: 100010
+    second: Cart Hay
+  - first:
+      1: 100012
+    second: Castle Wall
+  - first:
+      1: 100014
+    second: Chimney
+  - first:
+      1: 100016
+    second: Chimney Bottom
+  - first:
+      1: 100018
+    second: Chimney Bottom Square
+  - first:
+      1: 100020
+    second: Chimney Slanted
+  - first:
+      1: 100022
+    second: Chimney Top
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: Fence
+  - first:
+      1: 100028
+    second: Fence Broken
+  - first:
+      1: 100030
+    second: Fence Door
+  - first:
+      1: 100032
+    second: Fence Gate
+  - first:
+      1: 100034
+    second: Fountain
+  - first:
+      1: 100036
+    second: Fountain Flat
+  - first:
+      1: 100038
+    second: Grey Arch
+  - first:
+      1: 100040
+    second: Grey Border Wall
+  - first:
+      1: 100042
+    second: Grey Broken Wall
+  - first:
+      1: 100044
+    second: Grey Door Round
+  - first:
+      1: 100046
+    second: Grey Door Square
+  - first:
+      1: 100048
+    second: Grey Pole
+  - first:
+      1: 100050
+    second: Grey Short Wall
+  - first:
+      1: 100052
+    second: Grey Slanted
+  - first:
+      1: 100054
+    second: Grey Slanted Pole
+  - first:
+      1: 100056
+    second: Grey Slanted Wall
+  - first:
+      1: 100058
+    second: Grey Small Wall
+  - first:
+      1: 100060
+    second: Grey Triangle
+  - first:
+      1: 100062
+    second: Grey Wall
+  - first:
+      1: 100064
+    second: Grey Wall Corner
+  - first:
+      1: 100066
+    second: Grey Wall Slanted Corner
+  - first:
+      1: 100068
+    second: Grey Window Narrow
+  - first:
+      1: 100070
+    second: Grey Window Round
+  - first:
+      1: 100072
+    second: Grey Window Round Long
+  - first:
+      1: 100074
+    second: Grey Window Round Sill
+  - first:
+      1: 100076
+    second: Grey Window Square
+  - first:
+      1: 100078
+    second: Grey Window Square Sill
+  - first:
+      1: 100080
+    second: Hay
+  - first:
+      1: 100082
+    second: Hedge
+  - first:
+      1: 100084
+    second: Hedge Corner
+  - first:
+      1: 100086
+    second: Hedge Opening
+  - first:
+      1: 100088
+    second: Iron Door
+  - first:
+      1: 100090
+    second: Iron Door Square
+  - first:
+      1: 100092
+    second: Lightpost
+  - first:
+      1: 100094
+    second: Market Green
+  - first:
+      1: 100096
+    second: Market Green 1
+  - first:
+      1: 100098
+    second: Market Green 2
+  - first:
+      1: 100100
+    second: Plate
+  - first:
+      1: 100102
+    second: Plate Corner
+  - first:
+      1: 100104
+    second: Plate Curve
+  - first:
+      1: 100106
+    second: Plate Pavement
+  - first:
+      1: 100108
+    second: Plate Road
+  - first:
+      1: 100110
+    second: Plate Sidewalk
+  - first:
+      1: 100112
+    second: Plate Wood
+  - first:
+      1: 100114
+    second: Plate Wood Rig
+  - first:
+      1: 100116
+    second: Roof Corner Brown
+  - first:
+      1: 100118
+    second: Roof Corner Green
+  - first:
+      1: 100120
+    second: Roof Corner Red
+  - first:
+      1: 100122
+    second: Roof Inner Corner Brown
+  - first:
+      1: 100124
+    second: Roof Inner Corner Green
+  - first:
+      1: 100126
+    second: Roof Inner Corner Red
+  - first:
+      1: 100128
+    second: Roof Point Brown
+  - first:
+      1: 100130
+    second: Roof Point Green
+  - first:
+      1: 100132
+    second: Roof Point Red
+  - first:
+      1: 100134
+    second: Roof Slant Brown
+  - first:
+      1: 100136
+    second: Roof Slant Brown Cover
+  - first:
+      1: 100138
+    second: Roof Slant Green
+  - first:
+      1: 100140
+    second: Roof Slant Green Cover
+  - first:
+      1: 100142
+    second: Roof Slant Red
+  - first:
+      1: 100144
+    second: Roof Slant Red Cover
+  - first:
+      1: 100146
+    second: Roof Straight Brown
+  - first:
+      1: 100148
+    second: Roof Straight Brown End
+  - first:
+      1: 100150
+    second: Roof Straight Green
+  - first:
+      1: 100152
+    second: Roof Straight Red
+  - first:
+      1: 100154
+    second: Roof Straight Red End
+  - first:
+      1: 100156
+    second: Roof Straight Red End 1
+  - first:
+      1: 100158
+    second: Shield Green
+  - first:
+      1: 100160
+    second: Shield Red
+  - first:
+      1: 100162
+    second: Sign
+  - first:
+      1: 100164
+    second: Sign None
+  - first:
+      1: 100166
+    second: Slope
+  - first:
+      1: 100168
+    second: Slope Inner Corner
+  - first:
+      1: 100170
+    second: Slope Square Corner
+  - first:
+      1: 100172
+    second: Slope Straight
+  - first:
+      1: 100174
+    second: Sloper Corner
+  - first:
+      1: 100176
+    second: Stairs Stone
+  - first:
+      1: 100178
+    second: Stairs Wood
+  - first:
+      1: 100180
+    second: Tree
+  - first:
+      1: 100182
+    second: Tree High
+  - first:
+      1: 100184
+    second: Tree Round
+  - first:
+      1: 100186
+    second: Wheel
+  - first:
+      1: 100188
+    second: Wheel 1
+  - first:
+      1: 100190
+    second: Wheel 2
+  - first:
+      1: 100192
+    second: Wheel 3
+  - first:
+      1: 100194
+    second: Wheel 4
+  - first:
+      1: 100196
+    second: Wheel Solid
+  - first:
+      1: 100198
+    second: Wood Arch
+  - first:
+      1: 100200
+    second: Wood Border Wall
+  - first:
+      1: 100202
+    second: Wood Broken Wall
+  - first:
+      1: 100204
+    second: Wood Door
+  - first:
+      1: 100206
+    second: Wood Door Round
+  - first:
+      1: 100208
+    second: Wood Door Square
+  - first:
+      1: 100210
+    second: Wood Door Square 1
+  - first:
+      1: 100212
+    second: Wood Pole
+  - first:
+      1: 100214
+    second: Wood Railing
+  - first:
+      1: 100216
+    second: Wood Slanted
+  - first:
+      1: 100218
+    second: Wood Slanted Pole
+  - first:
+      1: 100220
+    second: Wood Slanted Wall
+  - first:
+      1: 100222
+    second: Wood Small Wall
+  - first:
+      1: 100224
+    second: Wood Tiny Wall
+  - first:
+      1: 100226
+    second: Wood Triangle
+  - first:
+      1: 100228
+    second: Wood Wall
+  - first:
+      1: 100230
+    second: Wood Wall Corner
+  - first:
+      1: 100232
+    second: Wood Wall Cross
+  - first:
+      1: 100234
+    second: Wood Wall Double Cross
+  - first:
+      1: 100236
+    second: Wood Wall Slanted Corner
+  - first:
+      1: 100238
+    second: Wood Window Narrow
+  - first:
+      1: 100240
+    second: Wood Window Round
+  - first:
+      1: 100242
+    second: Wood Window Round Long
+  - first:
+      1: 100244
+    second: Wood Window Round Sill
+  - first:
+      1: 100246
+    second: Wood Window Square
+  - first:
+      1: 100248
+    second: Wood Window Square Sill
+  - first:
+      4: 400000
+    second: Banner Green
+  - first:
+      4: 400002
+    second: Banner Red
+  - first:
+      4: 400004
+    second: Body
+  - first:
+      4: 400006
+    second: Body 1
+  - first:
+      4: 400008
+    second: Cart
+  - first:
+      4: 400010
+    second: Cart Hay
+  - first:
+      4: 400012
+    second: Castle Wall
+  - first:
+      4: 400014
+    second: Chimney
+  - first:
+      4: 400016
+    second: Chimney Bottom
+  - first:
+      4: 400018
+    second: Chimney Bottom Square
+  - first:
+      4: 400020
+    second: Chimney Slanted
+  - first:
+      4: 400022
+    second: Chimney Top
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: Fence
+  - first:
+      4: 400028
+    second: Fence Broken
+  - first:
+      4: 400030
+    second: Fence Door
+  - first:
+      4: 400032
+    second: Fence Gate
+  - first:
+      4: 400034
+    second: Fountain
+  - first:
+      4: 400036
+    second: Fountain Flat
+  - first:
+      4: 400038
+    second: Grey Arch
+  - first:
+      4: 400040
+    second: Grey Border Wall
+  - first:
+      4: 400042
+    second: Grey Broken Wall
+  - first:
+      4: 400044
+    second: Grey Door Round
+  - first:
+      4: 400046
+    second: Grey Door Square
+  - first:
+      4: 400048
+    second: Grey Pole
+  - first:
+      4: 400050
+    second: Grey Short Wall
+  - first:
+      4: 400052
+    second: Grey Slanted
+  - first:
+      4: 400054
+    second: Grey Slanted Pole
+  - first:
+      4: 400056
+    second: Grey Slanted Wall
+  - first:
+      4: 400058
+    second: Grey Small Wall
+  - first:
+      4: 400060
+    second: Grey Triangle
+  - first:
+      4: 400062
+    second: Grey Wall
+  - first:
+      4: 400064
+    second: Grey Wall Corner
+  - first:
+      4: 400066
+    second: Grey Wall Slanted Corner
+  - first:
+      4: 400068
+    second: Grey Window Narrow
+  - first:
+      4: 400070
+    second: Grey Window Round
+  - first:
+      4: 400072
+    second: Grey Window Round Long
+  - first:
+      4: 400074
+    second: Grey Window Round Sill
+  - first:
+      4: 400076
+    second: Grey Window Square
+  - first:
+      4: 400078
+    second: Grey Window Square Sill
+  - first:
+      4: 400080
+    second: Hay
+  - first:
+      4: 400082
+    second: Hedge
+  - first:
+      4: 400084
+    second: Hedge Corner
+  - first:
+      4: 400086
+    second: Hedge Opening
+  - first:
+      4: 400088
+    second: Iron Door
+  - first:
+      4: 400090
+    second: Iron Door Square
+  - first:
+      4: 400092
+    second: Lightpost
+  - first:
+      4: 400094
+    second: Market Green
+  - first:
+      4: 400096
+    second: Market Green 1
+  - first:
+      4: 400098
+    second: Market Green 2
+  - first:
+      4: 400100
+    second: Plate
+  - first:
+      4: 400102
+    second: Plate Corner
+  - first:
+      4: 400104
+    second: Plate Curve
+  - first:
+      4: 400106
+    second: Plate Pavement
+  - first:
+      4: 400108
+    second: Plate Road
+  - first:
+      4: 400110
+    second: Plate Sidewalk
+  - first:
+      4: 400112
+    second: Plate Wood
+  - first:
+      4: 400114
+    second: Plate Wood Rig
+  - first:
+      4: 400116
+    second: Roof Corner Brown
+  - first:
+      4: 400118
+    second: Roof Corner Green
+  - first:
+      4: 400120
+    second: Roof Corner Red
+  - first:
+      4: 400122
+    second: Roof Inner Corner Brown
+  - first:
+      4: 400124
+    second: Roof Inner Corner Green
+  - first:
+      4: 400126
+    second: Roof Inner Corner Red
+  - first:
+      4: 400128
+    second: Roof Point Brown
+  - first:
+      4: 400130
+    second: Roof Point Green
+  - first:
+      4: 400132
+    second: Roof Point Red
+  - first:
+      4: 400134
+    second: Roof Slant Brown
+  - first:
+      4: 400136
+    second: Roof Slant Brown Cover
+  - first:
+      4: 400138
+    second: Roof Slant Green
+  - first:
+      4: 400140
+    second: Roof Slant Green Cover
+  - first:
+      4: 400142
+    second: Roof Slant Red
+  - first:
+      4: 400144
+    second: Roof Slant Red Cover
+  - first:
+      4: 400146
+    second: Roof Straight Brown
+  - first:
+      4: 400148
+    second: Roof Straight Brown End
+  - first:
+      4: 400150
+    second: Roof Straight Green
+  - first:
+      4: 400152
+    second: Roof Straight Red
+  - first:
+      4: 400154
+    second: Roof Straight Red End
+  - first:
+      4: 400156
+    second: Roof Straight Red End 1
+  - first:
+      4: 400158
+    second: Shield Green
+  - first:
+      4: 400160
+    second: Shield Red
+  - first:
+      4: 400162
+    second: Sign
+  - first:
+      4: 400164
+    second: Sign None
+  - first:
+      4: 400166
+    second: Slope
+  - first:
+      4: 400168
+    second: Slope Inner Corner
+  - first:
+      4: 400170
+    second: Slope Square Corner
+  - first:
+      4: 400172
+    second: Slope Straight
+  - first:
+      4: 400174
+    second: Sloper Corner
+  - first:
+      4: 400176
+    second: Stairs Stone
+  - first:
+      4: 400178
+    second: Stairs Wood
+  - first:
+      4: 400180
+    second: Tree
+  - first:
+      4: 400182
+    second: Tree High
+  - first:
+      4: 400184
+    second: Tree Round
+  - first:
+      4: 400186
+    second: Wheel
+  - first:
+      4: 400188
+    second: Wheel 1
+  - first:
+      4: 400190
+    second: Wheel 2
+  - first:
+      4: 400192
+    second: Wheel 3
+  - first:
+      4: 400194
+    second: Wheel 4
+  - first:
+      4: 400196
+    second: Wheel Solid
+  - first:
+      4: 400198
+    second: Wood Arch
+  - first:
+      4: 400200
+    second: Wood Border Wall
+  - first:
+      4: 400202
+    second: Wood Broken Wall
+  - first:
+      4: 400204
+    second: Wood Door
+  - first:
+      4: 400206
+    second: Wood Door Round
+  - first:
+      4: 400208
+    second: Wood Door Square
+  - first:
+      4: 400210
+    second: Wood Door Square 1
+  - first:
+      4: 400212
+    second: Wood Pole
+  - first:
+      4: 400214
+    second: Wood Railing
+  - first:
+      4: 400216
+    second: Wood Slanted
+  - first:
+      4: 400218
+    second: Wood Slanted Pole
+  - first:
+      4: 400220
+    second: Wood Slanted Wall
+  - first:
+      4: 400222
+    second: Wood Small Wall
+  - first:
+      4: 400224
+    second: Wood Tiny Wall
+  - first:
+      4: 400226
+    second: Wood Triangle
+  - first:
+      4: 400228
+    second: Wood Wall
+  - first:
+      4: 400230
+    second: Wood Wall Corner
+  - first:
+      4: 400232
+    second: Wood Wall Cross
+  - first:
+      4: 400234
+    second: Wood Wall Double Cross
+  - first:
+      4: 400236
+    second: Wood Wall Slanted Corner
+  - first:
+      4: 400238
+    second: Wood Window Narrow
+  - first:
+      4: 400240
+    second: Wood Window Round
+  - first:
+      4: 400242
+    second: Wood Window Round Long
+  - first:
+      4: 400244
+    second: Wood Window Round Sill
+  - first:
+      4: 400246
+    second: Wood Window Square
+  - first:
+      4: 400248
+    second: Wood Window Square Sill
+  - first:
+      23: 2300000
+    second: Banner Green
+  - first:
+      23: 2300002
+    second: Banner Red
+  - first:
+      23: 2300004
+    second: Body
+  - first:
+      23: 2300006
+    second: Body 1
+  - first:
+      23: 2300008
+    second: Castle Wall
+  - first:
+      23: 2300010
+    second: Chimney
+  - first:
+      23: 2300012
+    second: Chimney Bottom
+  - first:
+      23: 2300014
+    second: Chimney Bottom Square
+  - first:
+      23: 2300016
+    second: Chimney Slanted
+  - first:
+      23: 2300018
+    second: Chimney Top
+  - first:
+      23: 2300020
+    second: Fence
+  - first:
+      23: 2300022
+    second: Fence Broken
+  - first:
+      23: 2300024
+    second: Fence Door
+  - first:
+      23: 2300026
+    second: Fence Gate
+  - first:
+      23: 2300028
+    second: Fountain
+  - first:
+      23: 2300030
+    second: Fountain Flat
+  - first:
+      23: 2300032
+    second: Grey Arch
+  - first:
+      23: 2300034
+    second: Grey Border Wall
+  - first:
+      23: 2300036
+    second: Grey Broken Wall
+  - first:
+      23: 2300038
+    second: Grey Door Round
+  - first:
+      23: 2300040
+    second: Grey Door Square
+  - first:
+      23: 2300042
+    second: Grey Pole
+  - first:
+      23: 2300044
+    second: Grey Short Wall
+  - first:
+      23: 2300046
+    second: Grey Slanted
+  - first:
+      23: 2300048
+    second: Grey Slanted Pole
+  - first:
+      23: 2300050
+    second: Grey Slanted Wall
+  - first:
+      23: 2300052
+    second: Grey Small Wall
+  - first:
+      23: 2300054
+    second: Grey Triangle
+  - first:
+      23: 2300056
+    second: Grey Wall
+  - first:
+      23: 2300058
+    second: Grey Wall Corner
+  - first:
+      23: 2300060
+    second: Grey Wall Slanted Corner
+  - first:
+      23: 2300062
+    second: Grey Window Narrow
+  - first:
+      23: 2300064
+    second: Grey Window Round
+  - first:
+      23: 2300066
+    second: Grey Window Round Long
+  - first:
+      23: 2300068
+    second: Grey Window Round Sill
+  - first:
+      23: 2300070
+    second: Grey Window Square
+  - first:
+      23: 2300072
+    second: Grey Window Square Sill
+  - first:
+      23: 2300074
+    second: Hay
+  - first:
+      23: 2300076
+    second: Hedge
+  - first:
+      23: 2300078
+    second: Hedge Corner
+  - first:
+      23: 2300080
+    second: Hedge Opening
+  - first:
+      23: 2300082
+    second: Iron Door
+  - first:
+      23: 2300084
+    second: Iron Door Square
+  - first:
+      23: 2300086
+    second: Lightpost
+  - first:
+      23: 2300088
+    second: Market Green
+  - first:
+      23: 2300090
+    second: Market Green 1
+  - first:
+      23: 2300092
+    second: Market Green 2
+  - first:
+      23: 2300094
+    second: Plate
+  - first:
+      23: 2300096
+    second: Plate Corner
+  - first:
+      23: 2300098
+    second: Plate Curve
+  - first:
+      23: 2300100
+    second: Plate Pavement
+  - first:
+      23: 2300102
+    second: Plate Road
+  - first:
+      23: 2300104
+    second: Plate Sidewalk
+  - first:
+      23: 2300106
+    second: Plate Wood
+  - first:
+      23: 2300108
+    second: Plate Wood Rig
+  - first:
+      23: 2300110
+    second: Roof Corner Brown
+  - first:
+      23: 2300112
+    second: Roof Corner Green
+  - first:
+      23: 2300114
+    second: Roof Corner Red
+  - first:
+      23: 2300116
+    second: Roof Inner Corner Brown
+  - first:
+      23: 2300118
+    second: Roof Inner Corner Green
+  - first:
+      23: 2300120
+    second: Roof Inner Corner Red
+  - first:
+      23: 2300122
+    second: Roof Point Brown
+  - first:
+      23: 2300124
+    second: Roof Point Green
+  - first:
+      23: 2300126
+    second: Roof Point Red
+  - first:
+      23: 2300128
+    second: Roof Slant Brown
+  - first:
+      23: 2300130
+    second: Roof Slant Brown Cover
+  - first:
+      23: 2300132
+    second: Roof Slant Green
+  - first:
+      23: 2300134
+    second: Roof Slant Green Cover
+  - first:
+      23: 2300136
+    second: Roof Slant Red
+  - first:
+      23: 2300138
+    second: Roof Slant Red Cover
+  - first:
+      23: 2300140
+    second: Roof Straight Brown
+  - first:
+      23: 2300142
+    second: Roof Straight Brown End
+  - first:
+      23: 2300144
+    second: Roof Straight Green
+  - first:
+      23: 2300146
+    second: Roof Straight Red
+  - first:
+      23: 2300148
+    second: Roof Straight Red End
+  - first:
+      23: 2300150
+    second: Roof Straight Red End 1
+  - first:
+      23: 2300152
+    second: Shield Green
+  - first:
+      23: 2300154
+    second: Shield Red
+  - first:
+      23: 2300156
+    second: Sign
+  - first:
+      23: 2300158
+    second: Sign None
+  - first:
+      23: 2300160
+    second: Slope
+  - first:
+      23: 2300162
+    second: Slope Inner Corner
+  - first:
+      23: 2300164
+    second: Slope Square Corner
+  - first:
+      23: 2300166
+    second: Slope Straight
+  - first:
+      23: 2300168
+    second: Sloper Corner
+  - first:
+      23: 2300170
+    second: Stairs Stone
+  - first:
+      23: 2300172
+    second: Stairs Wood
+  - first:
+      23: 2300174
+    second: Tree
+  - first:
+      23: 2300176
+    second: Tree High
+  - first:
+      23: 2300178
+    second: Tree Round
+  - first:
+      23: 2300180
+    second: Wheel
+  - first:
+      23: 2300182
+    second: Wheel 1
+  - first:
+      23: 2300184
+    second: Wheel 2
+  - first:
+      23: 2300186
+    second: Wheel 3
+  - first:
+      23: 2300188
+    second: Wheel 4
+  - first:
+      23: 2300190
+    second: Wheel Solid
+  - first:
+      23: 2300192
+    second: Wood Arch
+  - first:
+      23: 2300194
+    second: Wood Border Wall
+  - first:
+      23: 2300196
+    second: Wood Broken Wall
+  - first:
+      23: 2300198
+    second: Wood Door
+  - first:
+      23: 2300200
+    second: Wood Door Round
+  - first:
+      23: 2300202
+    second: Wood Door Square
+  - first:
+      23: 2300204
+    second: Wood Door Square 1
+  - first:
+      23: 2300206
+    second: Wood Pole
+  - first:
+      23: 2300208
+    second: Wood Railing
+  - first:
+      23: 2300210
+    second: Wood Slanted
+  - first:
+      23: 2300212
+    second: Wood Slanted Pole
+  - first:
+      23: 2300214
+    second: Wood Slanted Wall
+  - first:
+      23: 2300216
+    second: Wood Small Wall
+  - first:
+      23: 2300218
+    second: Wood Tiny Wall
+  - first:
+      23: 2300220
+    second: Wood Triangle
+  - first:
+      23: 2300222
+    second: Wood Wall
+  - first:
+      23: 2300224
+    second: Wood Wall Corner
+  - first:
+      23: 2300226
+    second: Wood Wall Cross
+  - first:
+      23: 2300228
+    second: Wood Wall Double Cross
+  - first:
+      23: 2300230
+    second: Wood Wall Slanted Corner
+  - first:
+      23: 2300232
+    second: Wood Window Narrow
+  - first:
+      23: 2300234
+    second: Wood Window Round
+  - first:
+      23: 2300236
+    second: Wood Window Round Long
+  - first:
+      23: 2300238
+    second: Wood Window Round Sill
+  - first:
+      23: 2300240
+    second: Wood Window Square
+  - first:
+      23: 2300242
+    second: Wood Window Square Sill
+  - first:
+      33: 3300000
+    second: Banner Green
+  - first:
+      33: 3300002
+    second: Banner Red
+  - first:
+      33: 3300004
+    second: Body
+  - first:
+      33: 3300006
+    second: Body 1
+  - first:
+      33: 3300008
+    second: Castle Wall
+  - first:
+      33: 3300010
+    second: Chimney
+  - first:
+      33: 3300012
+    second: Chimney Bottom
+  - first:
+      33: 3300014
+    second: Chimney Bottom Square
+  - first:
+      33: 3300016
+    second: Chimney Slanted
+  - first:
+      33: 3300018
+    second: Chimney Top
+  - first:
+      33: 3300020
+    second: Fence
+  - first:
+      33: 3300022
+    second: Fence Broken
+  - first:
+      33: 3300024
+    second: Fence Door
+  - first:
+      33: 3300026
+    second: Fence Gate
+  - first:
+      33: 3300028
+    second: Fountain
+  - first:
+      33: 3300030
+    second: Fountain Flat
+  - first:
+      33: 3300032
+    second: Grey Arch
+  - first:
+      33: 3300034
+    second: Grey Border Wall
+  - first:
+      33: 3300036
+    second: Grey Broken Wall
+  - first:
+      33: 3300038
+    second: Grey Door Round
+  - first:
+      33: 3300040
+    second: Grey Door Square
+  - first:
+      33: 3300042
+    second: Grey Pole
+  - first:
+      33: 3300044
+    second: Grey Short Wall
+  - first:
+      33: 3300046
+    second: Grey Slanted
+  - first:
+      33: 3300048
+    second: Grey Slanted Pole
+  - first:
+      33: 3300050
+    second: Grey Slanted Wall
+  - first:
+      33: 3300052
+    second: Grey Small Wall
+  - first:
+      33: 3300054
+    second: Grey Triangle
+  - first:
+      33: 3300056
+    second: Grey Wall
+  - first:
+      33: 3300058
+    second: Grey Wall Corner
+  - first:
+      33: 3300060
+    second: Grey Wall Slanted Corner
+  - first:
+      33: 3300062
+    second: Grey Window Narrow
+  - first:
+      33: 3300064
+    second: Grey Window Round
+  - first:
+      33: 3300066
+    second: Grey Window Round Long
+  - first:
+      33: 3300068
+    second: Grey Window Round Sill
+  - first:
+      33: 3300070
+    second: Grey Window Square
+  - first:
+      33: 3300072
+    second: Grey Window Square Sill
+  - first:
+      33: 3300074
+    second: Hay
+  - first:
+      33: 3300076
+    second: Hedge
+  - first:
+      33: 3300078
+    second: Hedge Corner
+  - first:
+      33: 3300080
+    second: Hedge Opening
+  - first:
+      33: 3300082
+    second: Iron Door
+  - first:
+      33: 3300084
+    second: Iron Door Square
+  - first:
+      33: 3300086
+    second: Lightpost
+  - first:
+      33: 3300088
+    second: Market Green
+  - first:
+      33: 3300090
+    second: Market Green 1
+  - first:
+      33: 3300092
+    second: Market Green 2
+  - first:
+      33: 3300094
+    second: Plate
+  - first:
+      33: 3300096
+    second: Plate Corner
+  - first:
+      33: 3300098
+    second: Plate Curve
+  - first:
+      33: 3300100
+    second: Plate Pavement
+  - first:
+      33: 3300102
+    second: Plate Road
+  - first:
+      33: 3300104
+    second: Plate Sidewalk
+  - first:
+      33: 3300106
+    second: Plate Wood
+  - first:
+      33: 3300108
+    second: Plate Wood Rig
+  - first:
+      33: 3300110
+    second: Roof Corner Brown
+  - first:
+      33: 3300112
+    second: Roof Corner Green
+  - first:
+      33: 3300114
+    second: Roof Corner Red
+  - first:
+      33: 3300116
+    second: Roof Inner Corner Brown
+  - first:
+      33: 3300118
+    second: Roof Inner Corner Green
+  - first:
+      33: 3300120
+    second: Roof Inner Corner Red
+  - first:
+      33: 3300122
+    second: Roof Point Brown
+  - first:
+      33: 3300124
+    second: Roof Point Green
+  - first:
+      33: 3300126
+    second: Roof Point Red
+  - first:
+      33: 3300128
+    second: Roof Slant Brown
+  - first:
+      33: 3300130
+    second: Roof Slant Brown Cover
+  - first:
+      33: 3300132
+    second: Roof Slant Green
+  - first:
+      33: 3300134
+    second: Roof Slant Green Cover
+  - first:
+      33: 3300136
+    second: Roof Slant Red
+  - first:
+      33: 3300138
+    second: Roof Slant Red Cover
+  - first:
+      33: 3300140
+    second: Roof Straight Brown
+  - first:
+      33: 3300142
+    second: Roof Straight Brown End
+  - first:
+      33: 3300144
+    second: Roof Straight Green
+  - first:
+      33: 3300146
+    second: Roof Straight Red
+  - first:
+      33: 3300148
+    second: Roof Straight Red End
+  - first:
+      33: 3300150
+    second: Roof Straight Red End 1
+  - first:
+      33: 3300152
+    second: Shield Green
+  - first:
+      33: 3300154
+    second: Shield Red
+  - first:
+      33: 3300156
+    second: Sign
+  - first:
+      33: 3300158
+    second: Sign None
+  - first:
+      33: 3300160
+    second: Slope
+  - first:
+      33: 3300162
+    second: Slope Inner Corner
+  - first:
+      33: 3300164
+    second: Slope Square Corner
+  - first:
+      33: 3300166
+    second: Slope Straight
+  - first:
+      33: 3300168
+    second: Sloper Corner
+  - first:
+      33: 3300170
+    second: Stairs Stone
+  - first:
+      33: 3300172
+    second: Stairs Wood
+  - first:
+      33: 3300174
+    second: Tree
+  - first:
+      33: 3300176
+    second: Tree High
+  - first:
+      33: 3300178
+    second: Tree Round
+  - first:
+      33: 3300180
+    second: Wheel
+  - first:
+      33: 3300182
+    second: Wheel 1
+  - first:
+      33: 3300184
+    second: Wheel 2
+  - first:
+      33: 3300186
+    second: Wheel 3
+  - first:
+      33: 3300188
+    second: Wheel 4
+  - first:
+      33: 3300190
+    second: Wheel Solid
+  - first:
+      33: 3300192
+    second: Wood Arch
+  - first:
+      33: 3300194
+    second: Wood Border Wall
+  - first:
+      33: 3300196
+    second: Wood Broken Wall
+  - first:
+      33: 3300198
+    second: Wood Door
+  - first:
+      33: 3300200
+    second: Wood Door Round
+  - first:
+      33: 3300202
+    second: Wood Door Square
+  - first:
+      33: 3300204
+    second: Wood Door Square 1
+  - first:
+      33: 3300206
+    second: Wood Pole
+  - first:
+      33: 3300208
+    second: Wood Railing
+  - first:
+      33: 3300210
+    second: Wood Slanted
+  - first:
+      33: 3300212
+    second: Wood Slanted Pole
+  - first:
+      33: 3300214
+    second: Wood Slanted Wall
+  - first:
+      33: 3300216
+    second: Wood Small Wall
+  - first:
+      33: 3300218
+    second: Wood Tiny Wall
+  - first:
+      33: 3300220
+    second: Wood Triangle
+  - first:
+      33: 3300222
+    second: Wood Wall
+  - first:
+      33: 3300224
+    second: Wood Wall Corner
+  - first:
+      33: 3300226
+    second: Wood Wall Cross
+  - first:
+      33: 3300228
+    second: Wood Wall Double Cross
+  - first:
+      33: 3300230
+    second: Wood Wall Slanted Corner
+  - first:
+      33: 3300232
+    second: Wood Window Narrow
+  - first:
+      33: 3300234
+    second: Wood Window Round
+  - first:
+      33: 3300236
+    second: Wood Window Round Long
+  - first:
+      33: 3300238
+    second: Wood Window Round Sill
+  - first:
+      33: 3300240
+    second: Wood Window Square
+  - first:
+      33: 3300242
+    second: Wood Window Square Sill
+  - first:
+      43: 4300000
+    second: Mesh Wood Wall Double Cross
+  - first:
+      43: 4300002
+    second: Mesh Wood Arch
+  - first:
+      43: 4300004
+    second: Mesh Wood Window Round Long
+  - first:
+      43: 4300006
+    second: Mesh Wood Triangle
+  - first:
+      43: 4300008
+    second: Mesh Grey Window Round
+  - first:
+      43: 4300010
+    second: Mesh Grey Short Wall
+  - first:
+      43: 4300012
+    second: Mesh Grey Small Wall
+  - first:
+      43: 4300014
+    second: Mesh Grey Wall
+  - first:
+      43: 4300016
+    second: Mesh Grey Window Round Long
+  - first:
+      43: 4300018
+    second: Mesh Grey Door Round
+  - first:
+      43: 4300020
+    second: Mesh Castle Wall
+  - first:
+      43: 4300022
+    second: Mesh Grey Window Square Sill
+  - first:
+      43: 4300024
+    second: Mesh Grey Window Square
+  - first:
+      43: 4300026
+    second: Mesh Grey Slanted Wall
+  - first:
+      43: 4300028
+    second: Mesh Grey Arch
+  - first:
+      43: 4300030
+    second: Mesh Grey Window Narrow
+  - first:
+      43: 4300032
+    second: Mesh Grey Window Round Sill
+  - first:
+      43: 4300034
+    second: Mesh Wood Wall
+  - first:
+      43: 4300036
+    second: Mesh Grey Pole
+  - first:
+      43: 4300038
+    second: Mesh Wood Border Wall
+  - first:
+      43: 4300040
+    second: Mesh Wood Window Square Sill
+  - first:
+      43: 4300042
+    second: Mesh Wood Tiny Wall
+  - first:
+      43: 4300044
+    second: Mesh Wood Broken Wall
+  - first:
+      43: 4300046
+    second: Mesh Wood Slanted Pole
+  - first:
+      43: 4300048
+    second: Mesh Grey Triangle
+  - first:
+      43: 4300050
+    second: Mesh Wood Door Square
+  - first:
+      43: 4300052
+    second: Mesh Wood Window Narrow
+  - first:
+      43: 4300054
+    second: Mesh Wood Slanted Wall
+  - first:
+      43: 4300056
+    second: Mesh Wood Pole
+  - first:
+      43: 4300058
+    second: Mesh Wood Wall Cross
+  - first:
+      43: 4300060
+    second: Mesh Wood Small Wall
+  - first:
+      43: 4300062
+    second: Mesh Grey Slanted Pole
+  - first:
+      43: 4300064
+    second: Mesh Grey Border Wall
+  - first:
+      43: 4300066
+    second: Mesh Wood Window Round
+  - first:
+      43: 4300068
+    second: Mesh Wood Window Round Sill
+  - first:
+      43: 4300070
+    second: Mesh Wood Window Square
+  - first:
+      43: 4300072
+    second: Mesh Grey Broken Wall
+  - first:
+      43: 4300074
+    second: Mesh Wood Door Round
+  - first:
+      43: 4300076
+    second: Mesh Grey Door Square
+  - first:
+      43: 4300078
+    second: Mesh Stairs Stone
+  - first:
+      43: 4300080
+    second: Mesh Iron Door
+  - first:
+      43: 4300082
+    second: Mesh Stairs Wood
+  - first:
+      43: 4300084
+    second: Mesh Wood Railing
+  - first:
+      43: 4300086
+    second: Mesh Chimney Bottom
+  - first:
+      43: 4300088
+    second: Mesh Chimney Top
+  - first:
+      43: 4300090
+    second: Mesh Chimney
+  - first:
+      43: 4300092
+    second: Mesh Chimney Bottom Square
+  - first:
+      43: 4300094
+    second: Mesh Chimney Slanted
+  - first:
+      43: 4300096
+    second: Mesh Grey Slanted
+  - first:
+      43: 4300098
+    second: Mesh Grey Wall Corner
+  - first:
+      43: 4300100
+    second: Mesh Grey Wall Slanted Corner
+  - first:
+      43: 4300102
+    second: Mesh Wood Wall Corner
+  - first:
+      43: 4300104
+    second: Mesh Wood Wall Slanted Corner
+  - first:
+      43: 4300106
+    second: Mesh Wood Slanted
+  - first:
+      43: 4300108
+    second: Mesh Wood Door
+  - first:
+      43: 4300110
+    second: Mesh Wood Door Square
+  - first:
+      43: 4300112
+    second: Mesh Iron Door Square
+  - first:
+      43: 4300114
+    second: Mesh Body
+  - first:
+      43: 4300116
+    second: Mesh Wheel
+  - first:
+      43: 4300118
+    second: Mesh Hay
+  - first:
+      43: 4300120
+    second: Mesh Body
+  - first:
+      43: 4300122
+    second: Mesh Banner Red
+  - first:
+      43: 4300124
+    second: Mesh Banner Green
+  - first:
+      43: 4300126
+    second: Mesh Shield Green
+  - first:
+      43: 4300128
+    second: Mesh Shield Red
+  - first:
+      43: 4300130
+    second: Mesh Sign
+  - first:
+      43: 4300132
+    second: Mesh Plate
+  - first:
+      43: 4300134
+    second: Mesh Sign None
+  - first:
+      43: 4300136
+    second: Mesh Roof Straight Green
+  - first:
+      43: 4300138
+    second: Mesh Roof Straight Red
+  - first:
+      43: 4300140
+    second: Mesh Roof Slant Red
+  - first:
+      43: 4300142
+    second: Mesh Roof Inner Corner Green
+  - first:
+      43: 4300144
+    second: Mesh Roof Point Green
+  - first:
+      43: 4300146
+    second: Mesh Roof Point Red
+  - first:
+      43: 4300148
+    second: Mesh Roof Slant Green
+  - first:
+      43: 4300150
+    second: Mesh Roof Inner Corner Red
+  - first:
+      43: 4300152
+    second: Mesh Roof Corner Green
+  - first:
+      43: 4300154
+    second: Mesh Roof Corner Red
+  - first:
+      43: 4300156
+    second: Mesh Roof Slant Green Cover
+  - first:
+      43: 4300158
+    second: Mesh Roof Slant Red Cover
+  - first:
+      43: 4300160
+    second: Mesh Roof Straight Red End
+  - first:
+      43: 4300162
+    second: Mesh Roof Straight Red End
+  - first:
+      43: 4300164
+    second: Mesh Tree
+  - first:
+      43: 4300166
+    second: Mesh Market Green
+  - first:
+      43: 4300168
+    second: Mesh Fountain Flat
+  - first:
+      43: 4300170
+    second: Mesh Fountain
+  - first:
+      43: 4300172
+    second: Mesh Plate Curve
+  - first:
+      43: 4300174
+    second: Mesh Plate Road
+  - first:
+      43: 4300176
+    second: Mesh Plate Corner
+  - first:
+      43: 4300178
+    second: Mesh Plate Pavement
+  - first:
+      43: 4300180
+    second: Mesh Plate Wood
+  - first:
+      43: 4300182
+    second: Mesh Plate Sidewalk
+  - first:
+      43: 4300184
+    second: Mesh Plate Wood Rig
+  - first:
+      43: 4300186
+    second: Mesh Slope Square Corner
+  - first:
+      43: 4300188
+    second: Mesh Slope
+  - first:
+      43: 4300190
+    second: Mesh Slope Straight
+  - first:
+      43: 4300192
+    second: Mesh Sloper Corner
+  - first:
+      43: 4300194
+    second: Mesh Slope Inner Corner
+  - first:
+      43: 4300196
+    second: Mesh Fence
+  - first:
+      43: 4300198
+    second: Mesh Fence Gate
+  - first:
+      43: 4300200
+    second: Mesh Fence Broken
+  - first:
+      43: 4300202
+    second: Mesh Fence Door
+  - first:
+      43: 4300204
+    second: Mesh Tree Round
+  - first:
+      43: 4300206
+    second: Mesh Tree High
+  - first:
+      43: 4300208
+    second: Mesh Lightpost
+  - first:
+      43: 4300210
+    second: Mesh Hedge
+  - first:
+      43: 4300212
+    second: Mesh Hedge Opening
+  - first:
+      43: 4300214
+    second: Mesh Hedge Corner
+  - first:
+      43: 4300216
+    second: Mesh Market Green
+  - first:
+      43: 4300218
+    second: Mesh Market Green
+  - first:
+      43: 4300220
+    second: Mesh Roof Point Brown
+  - first:
+      43: 4300222
+    second: Mesh Roof Straight Brown End
+  - first:
+      43: 4300224
+    second: Mesh Roof Straight Brown
+  - first:
+      43: 4300226
+    second: Mesh Roof Slant Brown Cover
+  - first:
+      43: 4300228
+    second: Mesh Roof Slant Brown
+  - first:
+      43: 4300230
+    second: Mesh Roof Corner Brown
+  - first:
+      43: 4300232
+    second: Mesh Roof Inner Corner Brown
+  - first:
+      43: 4300234
+    second: Mesh Wheel Solid
+  - first:
+      64: 6400000
+    second: Banner Green
+  - first:
+      64: 6400002
+    second: Banner Red
+  - first:
+      64: 6400004
+    second: Body
+  - first:
+      64: 6400006
+    second: Body 1
+  - first:
+      64: 6400008
+    second: Castle Wall
+  - first:
+      64: 6400010
+    second: Chimney
+  - first:
+      64: 6400012
+    second: Chimney Bottom
+  - first:
+      64: 6400014
+    second: Chimney Bottom Square
+  - first:
+      64: 6400016
+    second: Chimney Slanted
+  - first:
+      64: 6400018
+    second: Chimney Top
+  - first:
+      64: 6400020
+    second: Fence
+  - first:
+      64: 6400022
+    second: Fence Broken
+  - first:
+      64: 6400024
+    second: Fence Door
+  - first:
+      64: 6400026
+    second: Fence Gate
+  - first:
+      64: 6400028
+    second: Fountain
+  - first:
+      64: 6400030
+    second: Fountain Flat
+  - first:
+      64: 6400032
+    second: Grey Arch
+  - first:
+      64: 6400034
+    second: Grey Border Wall
+  - first:
+      64: 6400036
+    second: Grey Broken Wall
+  - first:
+      64: 6400038
+    second: Grey Door Round
+  - first:
+      64: 6400040
+    second: Grey Door Square
+  - first:
+      64: 6400042
+    second: Grey Pole
+  - first:
+      64: 6400044
+    second: Grey Short Wall
+  - first:
+      64: 6400046
+    second: Grey Slanted
+  - first:
+      64: 6400048
+    second: Grey Slanted Pole
+  - first:
+      64: 6400050
+    second: Grey Slanted Wall
+  - first:
+      64: 6400052
+    second: Grey Small Wall
+  - first:
+      64: 6400054
+    second: Grey Triangle
+  - first:
+      64: 6400056
+    second: Grey Wall
+  - first:
+      64: 6400058
+    second: Grey Wall Corner
+  - first:
+      64: 6400060
+    second: Grey Wall Slanted Corner
+  - first:
+      64: 6400062
+    second: Grey Window Narrow
+  - first:
+      64: 6400064
+    second: Grey Window Round
+  - first:
+      64: 6400066
+    second: Grey Window Round Long
+  - first:
+      64: 6400068
+    second: Grey Window Round Sill
+  - first:
+      64: 6400070
+    second: Grey Window Square
+  - first:
+      64: 6400072
+    second: Grey Window Square Sill
+  - first:
+      64: 6400074
+    second: Hay
+  - first:
+      64: 6400076
+    second: Hedge
+  - first:
+      64: 6400078
+    second: Hedge Corner
+  - first:
+      64: 6400080
+    second: Hedge Opening
+  - first:
+      64: 6400082
+    second: Iron Door
+  - first:
+      64: 6400084
+    second: Iron Door Square
+  - first:
+      64: 6400086
+    second: Lightpost
+  - first:
+      64: 6400088
+    second: Market Green
+  - first:
+      64: 6400090
+    second: Market Green 1
+  - first:
+      64: 6400092
+    second: Market Green 2
+  - first:
+      64: 6400094
+    second: Plate
+  - first:
+      64: 6400096
+    second: Plate Corner
+  - first:
+      64: 6400098
+    second: Plate Curve
+  - first:
+      64: 6400100
+    second: Plate Pavement
+  - first:
+      64: 6400102
+    second: Plate Road
+  - first:
+      64: 6400104
+    second: Plate Sidewalk
+  - first:
+      64: 6400106
+    second: Plate Wood
+  - first:
+      64: 6400108
+    second: Plate Wood Rig
+  - first:
+      64: 6400110
+    second: Roof Corner Brown
+  - first:
+      64: 6400112
+    second: Roof Corner Green
+  - first:
+      64: 6400114
+    second: Roof Corner Red
+  - first:
+      64: 6400116
+    second: Roof Inner Corner Brown
+  - first:
+      64: 6400118
+    second: Roof Inner Corner Green
+  - first:
+      64: 6400120
+    second: Roof Inner Corner Red
+  - first:
+      64: 6400122
+    second: Roof Point Brown
+  - first:
+      64: 6400124
+    second: Roof Point Green
+  - first:
+      64: 6400126
+    second: Roof Point Red
+  - first:
+      64: 6400128
+    second: Roof Slant Brown
+  - first:
+      64: 6400130
+    second: Roof Slant Brown Cover
+  - first:
+      64: 6400132
+    second: Roof Slant Green
+  - first:
+      64: 6400134
+    second: Roof Slant Green Cover
+  - first:
+      64: 6400136
+    second: Roof Slant Red
+  - first:
+      64: 6400138
+    second: Roof Slant Red Cover
+  - first:
+      64: 6400140
+    second: Roof Straight Brown
+  - first:
+      64: 6400142
+    second: Roof Straight Brown End
+  - first:
+      64: 6400144
+    second: Roof Straight Green
+  - first:
+      64: 6400146
+    second: Roof Straight Red
+  - first:
+      64: 6400148
+    second: Roof Straight Red End
+  - first:
+      64: 6400150
+    second: Roof Straight Red End 1
+  - first:
+      64: 6400152
+    second: Shield Green
+  - first:
+      64: 6400154
+    second: Shield Red
+  - first:
+      64: 6400156
+    second: Sign
+  - first:
+      64: 6400158
+    second: Sign None
+  - first:
+      64: 6400160
+    second: Slope
+  - first:
+      64: 6400162
+    second: Slope Inner Corner
+  - first:
+      64: 6400164
+    second: Slope Square Corner
+  - first:
+      64: 6400166
+    second: Slope Straight
+  - first:
+      64: 6400168
+    second: Sloper Corner
+  - first:
+      64: 6400170
+    second: Stairs Stone
+  - first:
+      64: 6400172
+    second: Stairs Wood
+  - first:
+      64: 6400174
+    second: Tree
+  - first:
+      64: 6400176
+    second: Tree High
+  - first:
+      64: 6400178
+    second: Tree Round
+  - first:
+      64: 6400180
+    second: Wheel
+  - first:
+      64: 6400182
+    second: Wheel 1
+  - first:
+      64: 6400184
+    second: Wheel 2
+  - first:
+      64: 6400186
+    second: Wheel 3
+  - first:
+      64: 6400188
+    second: Wheel 4
+  - first:
+      64: 6400190
+    second: Wheel Solid
+  - first:
+      64: 6400192
+    second: Wood Arch
+  - first:
+      64: 6400194
+    second: Wood Border Wall
+  - first:
+      64: 6400196
+    second: Wood Broken Wall
+  - first:
+      64: 6400198
+    second: Wood Door
+  - first:
+      64: 6400200
+    second: Wood Door Round
+  - first:
+      64: 6400202
+    second: Wood Door Square
+  - first:
+      64: 6400204
+    second: Wood Door Square 1
+  - first:
+      64: 6400206
+    second: Wood Pole
+  - first:
+      64: 6400208
+    second: Wood Railing
+  - first:
+      64: 6400210
+    second: Wood Slanted
+  - first:
+      64: 6400212
+    second: Wood Slanted Pole
+  - first:
+      64: 6400214
+    second: Wood Slanted Wall
+  - first:
+      64: 6400216
+    second: Wood Small Wall
+  - first:
+      64: 6400218
+    second: Wood Tiny Wall
+  - first:
+      64: 6400220
+    second: Wood Triangle
+  - first:
+      64: 6400222
+    second: Wood Wall
+  - first:
+      64: 6400224
+    second: Wood Wall Corner
+  - first:
+      64: 6400226
+    second: Wood Wall Cross
+  - first:
+      64: 6400228
+    second: Wood Wall Double Cross
+  - first:
+      64: 6400230
+    second: Wood Wall Slanted Corner
+  - first:
+      64: 6400232
+    second: Wood Window Narrow
+  - first:
+      64: 6400234
+    second: Wood Window Round
+  - first:
+      64: 6400236
+    second: Wood Window Round Long
+  - first:
+      64: 6400238
+    second: Wood Window Round Sill
+  - first:
+      64: 6400240
+    second: Wood Window Square
+  - first:
+      64: 6400242
+    second: Wood Window Square Sill
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Stone
+    second: {fileID: 2100000, guid: ab689755d1f3c1b43b81e99cf3779838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Cotton
+    second: {fileID: 2100000, guid: b14685c613c4bd9449746a90cc11b10a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Roof
+    second: {fileID: 2100000, guid: b7e03e285228fc04eac23a05a235f128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hay
+    second: {fileID: 2100000, guid: 763bf8b57bd900447aa80cfa55bb898d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Stone
+    second: {fileID: 2100000, guid: 5fc2d27c3455f794bb34a0e89102a97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Cotton
+    second: {fileID: 2100000, guid: f01f03b87ebbfb34bb0c92f8937c927b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Roof
+    second: {fileID: 2100000, guid: 4dcf1e6e2d49ec341b4e8e54d6f8bc52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 03873885fdb7e374db45f2f7d915cded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 1c36e60eb7efc794faddfe95483f0bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: bc563c7544d667b429af31c2bc6b9b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: ea6425b2e0fef0b4abb3dd478e050c7d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 346e3b5fd2ebd42357cb6f80b56b9892
+  fileUnit: 0
